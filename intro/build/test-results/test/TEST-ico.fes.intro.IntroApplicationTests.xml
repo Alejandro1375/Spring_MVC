@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ico.fes.intro.IntroApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-24T05:24:08" hostname="ANYOS" time="0.628">
+  <properties/>
+  <testcase name="contextLoads()" classname="ico.fes.intro.IntroApplicationTests" time="0.628"/>
+  <system-out><![CDATA[23:24:06.757 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [ico.fes.intro.IntroApplicationTests]: IntroApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:24:06.848 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration ico.fes.intro.IntroApplication for test class ico.fes.intro.IntroApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-05-23T23:24:07.188-06:00  INFO 8344 --- [    Test worker] ico.fes.intro.IntroApplicationTests      : Starting IntroApplicationTests using Java 17.0.7 with PID 8344 (started by aleja in C:\Users\aleja\Documents\6to semestre\Ingenieria de Software\intro)
+2023-05-23T23:24:07.190-06:00  INFO 8344 --- [    Test worker] ico.fes.intro.IntroApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-05-23T23:24:07.986-06:00  INFO 8344 --- [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-05-23T23:24:08.123-06:00  INFO 8344 --- [    Test worker] ico.fes.intro.IntroApplicationTests      : Started IntroApplicationTests in 1.127 seconds (process running for 2.059)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
